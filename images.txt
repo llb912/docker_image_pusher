@@ -3,3 +3,13 @@ mysql:5.7
 billygoo/tomcat8-jdk8
 redis:latest
 
+#node.js20不让用了，更改
+#- name: Checkout Code
+#uses: actions/checkout@v4
+#- name: Docker Setup Buildx
+#uses: docker/setup-buildx-action@v3
+#这4行为：
+#- name: Checkout Code
+#uses: actions/checkout@v5
+#- name: Docker Setup Buildx
+#uses: docker/setup-buildx-action@v4
