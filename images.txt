@@ -1,5 +1,5 @@
-nginx
+nginx:latest
 mysql:5.7
 billygoo/tomcat8-jdk8
-redis
+redis:latest
 
