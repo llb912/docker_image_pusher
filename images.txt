@@ -1,4 +1,4 @@
-nginx/nginx-prometheus-exporter
+nginx
 mysql:5.7
 billygoo/tomcat8-jdk8
 redis:latest
