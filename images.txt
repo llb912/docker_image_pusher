@@ -1,7 +1,7 @@
-nginx
-mysql:5.7
-billygoo/tomcat8-jdk8
-redis:latest
+#nginx
+#mysql:5.7
+#billygoo/tomcat8-jdk8
+#redis:latest
 
 #node.js20不让用了，更改
 #- name: Checkout Code
